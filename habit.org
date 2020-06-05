@@ -15,6 +15,7 @@ It tracked on my org-agenda with `habit` module on.
 Exceptions are:
    - need to quick solve a programming related questions
    - life emergency
+   - planed on agenda
 ** log
 start day: <2020-06-05 Fri>
 * TODO Habit B: self reflection
