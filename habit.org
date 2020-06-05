@@ -25,3 +25,7 @@ start day: <2020-06-05 Fri>
    - week
 ** log
 start day: <2020-06-05 Fri>
+* TODO Habit C: CPU
+** rules
+- document progress on CPU
+** log
