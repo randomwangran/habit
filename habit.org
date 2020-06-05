@@ -1,2 +1,26 @@
- # TBD
-* training idea
+This is a habit tracker for myself.
+
+Rules: doing it for consecutive 21 days then change it from TODO to
+DONE.
+
+Any time broken, re-start it from zero.
+
+It tracked on my org-agenda with `habit` module on.
+
+* TODO Habit A: no Internet
+** rules
+   - no youtube/b*
+   - no bbs
+   - no blogs
+Exceptions are:
+   - need to quick solve a programming related questions
+   - life emergency
+** log
+start day: <2020-06-05 Fri>
+* TODO Habit B: self reflection
+** rules
+   review my day in Emacs
+   - day
+   - week
+** log
+start day: <2020-06-05 Fri>
