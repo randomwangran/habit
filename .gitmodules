@@ -1,3 +1,0 @@
-[submodule "training"]
-	path = training
-	url = git@github.com:casdu/training.git
