@@ -18,6 +18,27 @@ Exceptions are:
    - planed on agenda
 ** log
 start day: <2020-06-05 Fri>
+  - [X] Day 01
+  - [ ] Day 02
+  - [ ] Day 03
+  - [ ] Day 04
+  - [ ] Day 05
+  - [ ] Day 06
+  - [ ] Day 07
+  - [ ] Day 08
+  - [ ] Day 09
+  - [ ] Day 10
+  - [ ] Day 11
+  - [ ] Day 12
+  - [ ] Day 13
+  - [ ] Day 14
+  - [ ] Day 15
+  - [ ] Day 16
+  - [ ] Day 17
+  - [ ] Day 18
+  - [ ] Day 19
+  - [ ] Day 20
+  - [ ] Day 21
 * TODO Habit B: self reflection
 ** rules
    review my day in Emacs
@@ -25,7 +46,50 @@ start day: <2020-06-05 Fri>
    - week
 ** log
 start day: <2020-06-05 Fri>
+  - [X] Day 01
+  - [ ] Day 02
+  - [ ] Day 03
+  - [ ] Day 04
+  - [ ] Day 05
+  - [ ] Day 06
+  - [ ] Day 07
+  - [ ] Day 08
+  - [ ] Day 09
+  - [ ] Day 10
+  - [ ] Day 11
+  - [ ] Day 12
+  - [ ] Day 13
+  - [ ] Day 14
+  - [ ] Day 15
+  - [ ] Day 16
+  - [ ] Day 17
+  - [ ] Day 18
+  - [ ] Day 19
+  - [ ] Day 20
+  - [ ] Day 21
 * TODO Habit C: CPU
 ** rules
 - document progress on CPU
 ** log
+start day <2020-06-04 Thu>
+  - [X] Day 01 https://github.com/randomwangran/CPU/commit/391e80fdbbe9f645400b49f71f77fd51bd990710
+  - [ ] Day 02
+  - [ ] Day 03
+  - [ ] Day 04
+  - [ ] Day 05
+  - [ ] Day 06
+  - [ ] Day 07
+  - [ ] Day 08
+  - [ ] Day 09
+  - [ ] Day 10
+  - [ ] Day 11
+  - [ ] Day 12
+  - [ ] Day 13
+  - [ ] Day 14
+  - [ ] Day 15
+  - [ ] Day 16
+  - [ ] Day 17
+  - [ ] Day 18
+  - [ ] Day 19
+  - [ ] Day 20
+  - [ ] Day 21
