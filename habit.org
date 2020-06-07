@@ -19,7 +19,7 @@ Exceptions are:
 ** log
 start day: <2020-06-05 Fri>
   - [X] Day 01
-  - [ ] Day 02
+  - [X] Day 02
   - [ ] Day 03
   - [ ] Day 04
   - [ ] Day 05
@@ -47,7 +47,7 @@ start day: <2020-06-05 Fri>
 ** log
 start day: <2020-06-05 Fri>
   - [X] Day 01
-  - [ ] Day 02
+  - [X] Day 02
   - [ ] Day 03
   - [ ] Day 04
   - [ ] Day 05
@@ -73,7 +73,7 @@ start day: <2020-06-05 Fri>
 ** log
 start day <2020-06-04 Thu>
   - [X] Day 01 https://github.com/randomwangran/CPU/commit/391e80fdbbe9f645400b49f71f77fd51bd990710
-  - [ ] Day 02
+  - [X] Day 02 https://github.com/randomwangran/CPU/commit/3468cc76296c06c6ded88b9183b3f247dee988c7
   - [ ] Day 03
   - [ ] Day 04
   - [ ] Day 05
