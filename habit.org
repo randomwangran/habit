@@ -16,11 +16,17 @@ Exceptions are:
    - need to quick solve a programming related questions
    - life emergency
    - planed on agenda
+
+Goal is to focus on the time block that it is supposed to do.
+
 ** log
 start day: <2020-06-05 Fri>
   - [X] Day 01
   - [X] Day 02
-  - [ ] Day 03
+  - [X] Day 03 Today, I did browser some of these websites; but I did
+        after I finished the task in that block. So, I revise the
+        rules. If I can finish this Habit, maybe I can try a more
+        restricted Habit tracker challenge.
   - [ ] Day 04
   - [ ] Day 05
   - [ ] Day 06
@@ -48,7 +54,7 @@ start day: <2020-06-05 Fri>
 start day: <2020-06-05 Fri>
   - [X] Day 01
   - [X] Day 02
-  - [ ] Day 03
+  - [X] Day 03
   - [ ] Day 04
   - [ ] Day 05
   - [ ] Day 06
@@ -74,7 +80,7 @@ start day: <2020-06-05 Fri>
 start day <2020-06-04 Thu>
   - [X] Day 01 https://github.com/randomwangran/CPU/commit/391e80fdbbe9f645400b49f71f77fd51bd990710
   - [X] Day 02 https://github.com/randomwangran/CPU/commit/3468cc76296c06c6ded88b9183b3f247dee988c7
-  - [ ] Day 03
+  - [X] Day 03 https://github.com/randomwangran/CPU/commit/a81dda0ab83d4ca41c8ef6ecca8cfe4e34cca060
   - [ ] Day 04
   - [ ] Day 05
   - [ ] Day 06
