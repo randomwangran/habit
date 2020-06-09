@@ -27,7 +27,7 @@ start day: <2020-06-05 Fri>
         after I finished the task in that block. So, I revise the
         rules. If I can finish this Habit, maybe I can try a more
         restricted Habit tracker challenge.
-  - [ ] Day 04
+  - [X] Day 04
   - [ ] Day 05
   - [ ] Day 06
   - [ ] Day 07
@@ -49,13 +49,16 @@ start day: <2020-06-05 Fri>
 ** rules
    review my day in Emacs
    - day
-   - week
+   - week (not yet implement, need to design procedure and test it
+     once finished this habit)
+** ideas
+   BA: review my day in Emacs include every weekly review
 ** log
 start day: <2020-06-05 Fri>
   - [X] Day 01
   - [X] Day 02
   - [X] Day 03
-  - [ ] Day 04
+  - [X] Day 04
   - [ ] Day 05
   - [ ] Day 06
   - [ ] Day 07
@@ -73,6 +76,7 @@ start day: <2020-06-05 Fri>
   - [ ] Day 19
   - [ ] Day 20
   - [ ] Day 21
+
 * TODO Habit C: CPU
 ** rules
 - document progress on CPU
@@ -81,7 +85,7 @@ start day <2020-06-04 Thu>
   - [X] Day 01 https://github.com/randomwangran/CPU/commit/391e80fdbbe9f645400b49f71f77fd51bd990710
   - [X] Day 02 https://github.com/randomwangran/CPU/commit/3468cc76296c06c6ded88b9183b3f247dee988c7
   - [X] Day 03 https://github.com/randomwangran/CPU/commit/a81dda0ab83d4ca41c8ef6ecca8cfe4e34cca060
-  - [ ] Day 04
+  - [X] Day 04 https://github.com/randomwangran/CPU/commit/7b333ac35637c18513af5add705a5b1c0348fe20
   - [ ] Day 05
   - [ ] Day 06
   - [ ] Day 07
