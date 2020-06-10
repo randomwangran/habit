@@ -120,7 +120,3 @@ start day <2020-06-04 Thu>
   - [ ] Day 19
   - [ ] Day 20
   - [ ] Day 21
-
-
-
-https://www.scientificamerican.com/article/why-feeling-close-to-the-finish-line-makes-you-push-harder/
