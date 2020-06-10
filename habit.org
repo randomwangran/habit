@@ -5,46 +5,63 @@ DONE.
 
 Any time broken, re-start it from zero.
 
-It tracked on my org-agenda with `habit` module on.
+It was tracked on my org-agenda with `habit` module on.
 
-* TODO Habit A: no Internet
+* TODO Habit A: no distractive Internet
 ** rules
    - no youtube/b*
    - no bbs
    - no blogs
+
 Exceptions are:
+
    - need to quick solve a programming related questions
    - life emergency
    - planed on agenda
 
 Goal is to focus on the time block that it is supposed to do.
 
+Instead of completing blocking the access to Internet, I try to:
+- assign a 20-min section after the morning section to go through
+  those
+- assign a long time block each week at a fix time to do the Internet
+
 ** log
-start day: <2020-06-05 Fri>
-  - [X] Day 01
-  - [X] Day 02
-  - [X] Day 03 Today, I did browser some of these websites; but I did
-        after I finished the task in that block. So, I revise the
-        rules. If I can finish this Habit, maybe I can try a more
-        restricted Habit tracker challenge.
-  - [X] Day 04
-  - [ ] Day 05
-  - [ ] Day 06
-  - [ ] Day 07
-  - [ ] Day 08
-  - [ ] Day 09
-  - [ ] Day 10
-  - [ ] Day 11
-  - [ ] Day 12
-  - [ ] Day 13
-  - [ ] Day 14
-  - [ ] Day 15
-  - [ ] Day 16
-  - [ ] Day 17
-  - [ ] Day 18
-  - [ ] Day 19
-  - [ ] Day 20
-  - [ ] Day 21
+*** attempt 2
+start day: <2020-06-10 Wed>
+   - [ ] Day 01
+   - [ ] Day 02
+   - [ ] Day 03
+   - [ ] Day 04
+   - [ ] Day 05
+   - [ ] Day 06
+   - [ ] Day 07
+   - [ ] Day 08
+   - [ ] Day 09
+   - [ ] Day 10
+   - [ ] Day 11
+   - [ ] Day 12
+   - [ ] Day 13
+   - [ ] Day 14
+   - [ ] Day 15
+   - [ ] Day 16
+   - [ ] Day 17
+   - [ ] Day 18
+   - [ ] Day 19
+   - [ ] Day 20
+   - [ ] Day 21
+
+*** attempt 1
+    start day: <2020-06-05 Fri>
+   - [X] Day 01
+   - [X] Day 02
+   - [X] Day 03 Today, I did browser some of these websites; but I did
+         after I finished the task in that block. So, I revise the
+         rules. If I can finish this Habit, maybe I can try a more
+         restricted Habit tracker challenge.
+   - [X] Day 04
+   - [ ] Day 05 fail; when check a tech blog, start to read unnecessary
+         pages.
 * TODO Habit B: self reflection
 ** rules
    review my day in Emacs
@@ -59,7 +76,7 @@ start day: <2020-06-05 Fri>
   - [X] Day 02
   - [X] Day 03
   - [X] Day 04
-  - [ ] Day 05
+  - [X] Day 05
   - [ ] Day 06
   - [ ] Day 07
   - [ ] Day 08
@@ -86,7 +103,7 @@ start day <2020-06-04 Thu>
   - [X] Day 02 https://github.com/randomwangran/CPU/commit/3468cc76296c06c6ded88b9183b3f247dee988c7
   - [X] Day 03 https://github.com/randomwangran/CPU/commit/a81dda0ab83d4ca41c8ef6ecca8cfe4e34cca060
   - [X] Day 04 https://github.com/randomwangran/CPU/commit/7b333ac35637c18513af5add705a5b1c0348fe20
-  - [ ] Day 05
+  - [X] Day 05 https://github.com/randomwangran/CPU/commit/bbe474e61be0cce13da614a80de644fd89ec2faf
   - [ ] Day 06
   - [ ] Day 07
   - [ ] Day 08
@@ -103,3 +120,7 @@ start day <2020-06-04 Thu>
   - [ ] Day 19
   - [ ] Day 20
   - [ ] Day 21
+
+
+
+https://www.scientificamerican.com/article/why-feeling-close-to-the-finish-line-makes-you-push-harder/
