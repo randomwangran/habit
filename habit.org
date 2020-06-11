@@ -21,15 +21,15 @@ Exceptions are:
 
 Goal is to focus on the time block that it is supposed to do.
 
-Instead of completing blocking the access to Internet, I try to:
+Instead of fully blocking the access to Internet, I try to:
 - assign a 20-min section after the morning section to go through
-  those
+  those distractive webs
 - assign a long time block each week at a fix time to do the Internet
 
 ** log
 *** attempt 2
 start day: <2020-06-10 Wed>
-   - [ ] Day 01
+   - [X] Day 01
    - [ ] Day 02
    - [ ] Day 03
    - [ ] Day 04
@@ -62,6 +62,13 @@ start day: <2020-06-10 Wed>
    - [X] Day 04
    - [ ] Day 05 fail; when check a tech blog, start to read unnecessary
          pages.
+** ideas
+*** elisp
+- write a function:
+
+  For a special task, if check in, after a given time period, using
+  bufferfly as a reminder.
+
 * TODO Habit B: self reflection
 ** rules
    review my day in Emacs
@@ -77,7 +84,7 @@ start day: <2020-06-05 Fri>
   - [X] Day 03
   - [X] Day 04
   - [X] Day 05
-  - [ ] Day 06
+  - [X] Day 06
   - [ ] Day 07
   - [ ] Day 08
   - [ ] Day 09
@@ -104,7 +111,7 @@ start day <2020-06-04 Thu>
   - [X] Day 03 https://github.com/randomwangran/CPU/commit/a81dda0ab83d4ca41c8ef6ecca8cfe4e34cca060
   - [X] Day 04 https://github.com/randomwangran/CPU/commit/7b333ac35637c18513af5add705a5b1c0348fe20
   - [X] Day 05 https://github.com/randomwangran/CPU/commit/bbe474e61be0cce13da614a80de644fd89ec2faf
-  - [ ] Day 06
+  - [X] Day 06 https://github.com/randomwangran/CPU/commit/8fb3cf26f629972e1190fbedb7ce0a2096a6b1d2
   - [ ] Day 07
   - [ ] Day 08
   - [ ] Day 09
