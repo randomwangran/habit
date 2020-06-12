@@ -30,7 +30,7 @@ Instead of fully blocking the access to Internet, I try to:
 *** attempt 2
 start day: <2020-06-10 Wed>
    - [X] Day 01
-   - [ ] Day 02
+   - [X] Day 02
    - [ ] Day 03
    - [ ] Day 04
    - [ ] Day 05
@@ -85,7 +85,7 @@ start day: <2020-06-05 Fri>
   - [X] Day 04
   - [X] Day 05
   - [X] Day 06
-  - [ ] Day 07
+  - [X] Day 07
   - [ ] Day 08
   - [ ] Day 09
   - [ ] Day 10
@@ -105,25 +105,34 @@ start day: <2020-06-05 Fri>
 ** rules
 - document progress on CPU
 ** log
-start day <2020-06-04 Thu>
-  - [X] Day 01 https://github.com/randomwangran/CPU/commit/391e80fdbbe9f645400b49f71f77fd51bd990710
-  - [X] Day 02 https://github.com/randomwangran/CPU/commit/3468cc76296c06c6ded88b9183b3f247dee988c7
-  - [X] Day 03 https://github.com/randomwangran/CPU/commit/a81dda0ab83d4ca41c8ef6ecca8cfe4e34cca060
-  - [X] Day 04 https://github.com/randomwangran/CPU/commit/7b333ac35637c18513af5add705a5b1c0348fe20
-  - [X] Day 05 https://github.com/randomwangran/CPU/commit/bbe474e61be0cce13da614a80de644fd89ec2faf
-  - [X] Day 06 https://github.com/randomwangran/CPU/commit/8fb3cf26f629972e1190fbedb7ce0a2096a6b1d2
-  - [ ] Day 07
-  - [ ] Day 08
-  - [ ] Day 09
-  - [ ] Day 10
-  - [ ] Day 11
-  - [ ] Day 12
-  - [ ] Day 13
-  - [ ] Day 14
-  - [ ] Day 15
-  - [ ] Day 16
-  - [ ] Day 17
-  - [ ] Day 18
-  - [ ] Day 19
-  - [ ] Day 20
-  - [ ] Day 21
+*** attempt 2
+   - [ ] Day 01
+   - [ ] Day 02
+   - [ ] Day 03
+   - [ ] Day 04
+   - [ ] Day 05
+   - [ ] Day 06
+   - [ ] Day 07
+   - [ ] Day 08
+   - [ ] Day 09
+   - [ ] Day 10
+   - [ ] Day 11
+   - [ ] Day 12
+   - [ ] Day 13
+   - [ ] Day 14
+   - [ ] Day 15
+   - [ ] Day 16
+   - [ ] Day 17
+   - [ ] Day 18
+   - [ ] Day 19
+   - [ ] Day 20
+   - [ ] Day 21
+*** attempt 1
+ start day <2020-06-04 Thu>
+   - [X] Day 01 https://github.com/randomwangran/CPU/commit/391e80fdbbe9f645400b49f71f77fd51bd990710
+   - [X] Day 02 https://github.com/randomwangran/CPU/commit/3468cc76296c06c6ded88b9183b3f247dee988c7
+   - [X] Day 03 https://github.com/randomwangran/CPU/commit/a81dda0ab83d4ca41c8ef6ecca8cfe4e34cca060
+   - [X] Day 04 https://github.com/randomwangran/CPU/commit/7b333ac35637c18513af5add705a5b1c0348fe20
+   - [X] Day 05 https://github.com/randomwangran/CPU/commit/bbe474e61be0cce13da614a80de644fd89ec2faf
+   - [X] Day 06 https://github.com/randomwangran/CPU/commit/8fb3cf26f629972e1190fbedb7ce0a2096a6b1d2
+   - [ ] Day 07 spending the whole night on the plan on guitar
