@@ -1,11 +1,12 @@
-This is a habit tracker for myself.
+This is a habit tracker for myself. I notice the feelings of
+concentration and satisfaction are similar. And I like these feelings.
 
-Rules: doing it for consecutive 21 days then change it from TODO to
-DONE.
+Rule is simple: doing it for consecutive 21 days then change the item
+from TODO to DONE. Let's see how many DONE I can done.
 
-Any time broken, re-start it from zero.
-
-It was tracked on my org-agenda with `habit` module on.
+Any time broken, re-start it from zero. Try to find why I broke on
+that day. Is there anything I can do to prevent it happen again? Or
+should I change the rule to be more practical or more precise?
 
 * TODO Habit A: no distractive Internet
 ** rules
@@ -26,11 +27,10 @@ Instead of fully blocking the access to Internet, I try to:
   those distractive webs
 - assign a long time block each week at a fix time to do the Internet
 
-** log
-*** attempt 2
-start day: <2020-06-10 Wed>
-   - [X] Day 01
-   - [X] Day 02
+** logs
+*** attempt 3
+   - [ ] Day 01
+   - [ ] Day 02
    - [ ] Day 03
    - [ ] Day 04
    - [ ] Day 05
@@ -51,6 +51,13 @@ start day: <2020-06-10 Wed>
    - [ ] Day 20
    - [ ] Day 21
 
+*** attempt 2
+start day: <2020-06-10 Wed>
+   - [X] Day 01
+   - [X] Day 02
+   - [ ] Day 03 end up watch starship this afternoon, and play CS1.6
+     in my browser...
+
 *** attempt 1
     start day: <2020-06-05 Fri>
    - [X] Day 01
@@ -63,11 +70,13 @@ start day: <2020-06-10 Wed>
    - [ ] Day 05 fail; when check a tech blog, start to read unnecessary
          pages.
 ** ideas
-*** elisp
+*** CANCELLED elisp
 - write a function:
 
   For a special task, if check in, after a given time period, using
   bufferfly as a reminder.
+
+  Just use a physical timer.
 
 * TODO Habit B: self reflection
 ** rules
@@ -86,7 +95,14 @@ start day: <2020-06-05 Fri>
   - [X] Day 05
   - [X] Day 06
   - [X] Day 07
-  - [ ] Day 08
+  - [X] Day 08 I think there's a reason why I am still be able to hold
+    Habit B. This habit takes significantly less amount of energy to
+    do it. Just one keyboard stroke, then I am in the flow.
+
+    Whereas, H-a, I need to constantly remind myself not doing
+    something. And that is hard. It turns out it's more easy to do
+    something rather than not to do something.
+
   - [ ] Day 09
   - [ ] Day 10
   - [ ] Day 11
@@ -106,7 +122,7 @@ start day: <2020-06-05 Fri>
 - document progress on CPU
 ** log
 *** attempt 2
-   - [ ] Day 01
+   - [X] Day 01 https://github.com/randomwangran/CPU/commit/41179ae055ae6f4e3e7cb609027db27d27f51954
    - [ ] Day 02
    - [ ] Day 03
    - [ ] Day 04
