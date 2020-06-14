@@ -10,6 +10,7 @@ should I change the rule to be more practical or more precise?
 
 * TODO Habit A: no distractive Internet
 ** rules
+*** AA [too hard]
    - no youtube/b*
    - no bbs
    - no blogs
@@ -27,8 +28,12 @@ Instead of fully blocking the access to Internet, I try to:
   those distractive webs
 - assign a long time block each week at a fix time to do the Internet
 
+*** AB
+open computer then check-in to the tasks.
+
 ** logs
 *** attempt 3
+<2020-06-14 Sun>
    - [ ] Day 01
    - [ ] Day 02
    - [ ] Day 03
@@ -103,7 +108,9 @@ start day: <2020-06-05 Fri>
     something. And that is hard. It turns out it's more easy to do
     something rather than not to do something.
 
-  - [ ] Day 09
+  - [X] Day 09 H-a is still too hard for me. Let me break it down to
+    even more simple action. As the rule-AA write
+
   - [ ] Day 10
   - [ ] Day 11
   - [ ] Day 12
@@ -123,7 +130,7 @@ start day: <2020-06-05 Fri>
 ** log
 *** attempt 2
    - [X] Day 01 https://github.com/randomwangran/CPU/commit/41179ae055ae6f4e3e7cb609027db27d27f51954
-   - [ ] Day 02
+   - [X] Day 02 https://github.com/randomwangran/CPU/commit/0db9efa5b2534828e5aeffbc45a52b21284e067b
    - [ ] Day 03
    - [ ] Day 04
    - [ ] Day 05
