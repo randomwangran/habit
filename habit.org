@@ -34,7 +34,9 @@ open computer then check-in to the tasks.
 ** logs
 *** attempt 3
 <2020-06-14 Sun>
-   - [ ] Day 01
+   - [X] Day 01 It's easy. Just checked in when I first opened my
+     computer. Try next day, to see if I can open my computer after
+     the lunch.
    - [ ] Day 02
    - [ ] Day 03
    - [ ] Day 04
@@ -111,7 +113,9 @@ start day: <2020-06-05 Fri>
   - [X] Day 09 H-a is still too hard for me. Let me break it down to
     even more simple action. As the rule-AA write
 
-  - [ ] Day 10
+  - [X] Day 10 when doing cpu, allocate sometime to "ZK" materials
+    into my brain
+
   - [ ] Day 11
   - [ ] Day 12
   - [ ] Day 13
@@ -131,7 +135,7 @@ start day: <2020-06-05 Fri>
 *** attempt 2
    - [X] Day 01 https://github.com/randomwangran/CPU/commit/41179ae055ae6f4e3e7cb609027db27d27f51954
    - [X] Day 02 https://github.com/randomwangran/CPU/commit/0db9efa5b2534828e5aeffbc45a52b21284e067b
-   - [ ] Day 03
+   - [X] Day 03 https://github.com/randomwangran/CPU/commit/e26365c892b3c8b3a168190147c1984b2c0b436f
    - [ ] Day 04
    - [ ] Day 05
    - [ ] Day 06
