@@ -37,7 +37,8 @@ open computer then check-in to the tasks.
    - [X] Day 01 It's easy. Just checked in when I first opened my
      computer. Try next day, to see if I can open my computer after
      the lunch.
-   - [ ] Day 02
+   - [X] Day 02 Not a day start with computer, so cross it.
+     Next day, try check it after dinner.
    - [ ] Day 03
    - [ ] Day 04
    - [ ] Day 05
@@ -116,7 +117,10 @@ start day: <2020-06-05 Fri>
   - [X] Day 10 when doing cpu, allocate sometime to "ZK" materials
     into my brain
 
-  - [ ] Day 11
+  - [X] Day 11 I don't feel good about open browser during the small
+    break. That's where the trouble really comes. Block the access
+    again and to see what will happen
+
   - [ ] Day 12
   - [ ] Day 13
   - [ ] Day 14
@@ -136,7 +140,7 @@ start day: <2020-06-05 Fri>
    - [X] Day 01 https://github.com/randomwangran/CPU/commit/41179ae055ae6f4e3e7cb609027db27d27f51954
    - [X] Day 02 https://github.com/randomwangran/CPU/commit/0db9efa5b2534828e5aeffbc45a52b21284e067b
    - [X] Day 03 https://github.com/randomwangran/CPU/commit/e26365c892b3c8b3a168190147c1984b2c0b436f
-   - [ ] Day 04
+   - [X] Day 04 notes no paper
    - [ ] Day 05
    - [ ] Day 06
    - [ ] Day 07
