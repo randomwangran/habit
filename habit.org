@@ -30,7 +30,12 @@ Instead of fully blocking the access to Internet, I try to:
 
 *** AB
 open computer then check-in to the tasks.
+- morning
+- afternoon
+- evening
 
+  If, morning and afternoon done nicely. Then 20 minutes Internet
+  without stress before evening.
 ** logs
 *** attempt 3
 <2020-06-14 Sun>
@@ -121,7 +126,21 @@ start day: <2020-06-05 Fri>
     break. That's where the trouble really comes. Block the access
     again and to see what will happen
 
-  - [ ] Day 12
+  - [X] Day 12 For habit-AB
+
+    Procedure is easy:
+
+    1. After [habit I have], I will [habit I need]
+    2. After [habit I need], I will [habit I want]
+
+    After I start my day with [checking in with agenda in the morning], I
+    will [checking in with agenda in the afternoon]
+
+    After [checking in with agenda in the afternoon], I will watch
+    [youtube] after the work out.
+
+    -- <<THE 2ND LAW: Make It Attractive (90)>>
+
   - [ ] Day 13
   - [ ] Day 14
   - [ ] Day 15
@@ -141,7 +160,7 @@ start day: <2020-06-05 Fri>
    - [X] Day 02 https://github.com/randomwangran/CPU/commit/0db9efa5b2534828e5aeffbc45a52b21284e067b
    - [X] Day 03 https://github.com/randomwangran/CPU/commit/e26365c892b3c8b3a168190147c1984b2c0b436f
    - [X] Day 04 notes no paper
-   - [ ] Day 05
+   - [X] Day 05 notes on paper
    - [ ] Day 06
    - [ ] Day 07
    - [ ] Day 08
