@@ -44,7 +44,8 @@ open computer then check-in to the tasks.
      the lunch.
    - [X] Day 02 Not a day start with computer, so cross it.
      Next day, try check it after dinner.
-   - [ ] Day 03
+   - [X] Day 03 Not strictly done, but 90% of it. Forget to arrange the
+    night tasks.
    - [ ] Day 04
    - [ ] Day 05
    - [ ] Day 06
@@ -141,7 +142,8 @@ start day: <2020-06-05 Fri>
 
     -- <<THE 2ND LAW: Make It Attractive (90)>>
 
-  - [ ] Day 13
+  - [X] Day 13
+
   - [ ] Day 14
   - [ ] Day 15
   - [ ] Day 16
@@ -161,7 +163,7 @@ start day: <2020-06-05 Fri>
    - [X] Day 03 https://github.com/randomwangran/CPU/commit/e26365c892b3c8b3a168190147c1984b2c0b436f
    - [X] Day 04 notes no paper
    - [X] Day 05 notes on paper
-   - [ ] Day 06
+   - [X] Day 06 notes on paper
    - [ ] Day 07
    - [ ] Day 08
    - [ ] Day 09
