@@ -30,22 +30,27 @@ Instead of fully blocking the access to Internet, I try to:
 
 *** AB
 open computer then check-in to the tasks.
-- morning
-- afternoon
-- evening
 
-  If, morning and afternoon done nicely. Then 20 minutes Internet
-  without stress before evening.
+     Let me say it again:
+
+     - Morning, open the Emacs, check in agenda
+
+     - Afternoon, open the Emacs, check in agenda
+
+     - Evening, open the Emacs, check in agenda
+
+Fill the gap with re-file or zk, but don't open the Internet without
+any intention.
+
+If during the session find something interesting, make the habit to
+capture it. And process it later on.
+
 ** logs
-*** attempt 3
-<2020-06-14 Sun>
-   - [X] Day 01 It's easy. Just checked in when I first opened my
-     computer. Try next day, to see if I can open my computer after
-     the lunch.
-   - [X] Day 02 Not a day start with computer, so cross it.
-     Next day, try check it after dinner.
-   - [X] Day 03 Not strictly done, but 90% of it. Forget to arrange the
-    night tasks.
+*** attempt 4
+   <2020-06-19 Fri>
+   - [ ] Day 01
+   - [ ] Day 02
+   - [ ] Day 03
    - [ ] Day 04
    - [ ] Day 05
    - [ ] Day 06
@@ -64,6 +69,29 @@ open computer then check-in to the tasks.
    - [ ] Day 19
    - [ ] Day 20
    - [ ] Day 21
+
+*** attempt 3
+<2020-06-14 Sun>
+   - [X] Day 01 It's easy. Just checked in when I first opened my
+     computer. Try next day, to see if I can open my computer after
+     the lunch.
+   - [X] Day 02 Not a day start with computer, so cross it.
+     Next day, try check it after dinner.
+   - [X] Day 03 Not strictly done, but 90% of it. Forget to arrange the
+    night tasks.
+   - [ ] Day 04 Forget to block the access. I fail check in agenda
+     when I open Emacs.
+
+     Lessons learn again: pay attention to the initial cue. It can
+     easily destroy the whole section of a day.
+
+     Let me say it again:
+
+     - Morning, open the Emacs, check in agenda
+
+     - Afternoon, open the Emacs, check in agenda
+
+     - Evening, open the Emacs, check in agenda
 
 *** attempt 2
 start day: <2020-06-10 Wed>
@@ -142,7 +170,12 @@ start day: <2020-06-05 Fri>
 
     -- <<THE 2ND LAW: Make It Attractive (90)>>
 
-  - [X] Day 13
+  - [X] Day 13 I also find my behavior falls into the bad one when I
+    somehow need to access INTERNET but my current task is somewhat
+    stuck and need to wait some time until I can do something to that
+    tasks. This is the critical moment when bad thing is mostly like
+    to happen. I think the best way to avoid such thing is to build a
+    small tasks pool.
 
   - [ ] Day 14
   - [ ] Day 15
@@ -164,7 +197,7 @@ start day: <2020-06-05 Fri>
    - [X] Day 04 notes no paper
    - [X] Day 05 notes on paper
    - [X] Day 06 notes on paper
-   - [ ] Day 07
+   - [X] Day 07 notes on paper
    - [ ] Day 08
    - [ ] Day 09
    - [ ] Day 10
