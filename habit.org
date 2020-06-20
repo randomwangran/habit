@@ -48,7 +48,7 @@ capture it. And process it later on.
 ** logs
 *** attempt 4
    <2020-06-19 Fri>
-   - [ ] Day 01
+   - [X] Day 01 good day with blocking system on
    - [ ] Day 02
    - [ ] Day 03
    - [ ] Day 04
@@ -177,7 +177,10 @@ start day: <2020-06-05 Fri>
     to happen. I think the best way to avoid such thing is to build a
     small tasks pool.
 
-  - [ ] Day 14
+  - [X] Day 14 I find the block system can make little difference.
+    Just that little bit effort make today a good day in terms of no
+    distractive Internet
+
   - [ ] Day 15
   - [ ] Day 16
   - [ ] Day 17
@@ -190,14 +193,14 @@ start day: <2020-06-05 Fri>
 ** rules
 - document progress on CPU
 ** log
-*** attempt 2
-   - [X] Day 01 https://github.com/randomwangran/CPU/commit/41179ae055ae6f4e3e7cb609027db27d27f51954
-   - [X] Day 02 https://github.com/randomwangran/CPU/commit/0db9efa5b2534828e5aeffbc45a52b21284e067b
-   - [X] Day 03 https://github.com/randomwangran/CPU/commit/e26365c892b3c8b3a168190147c1984b2c0b436f
-   - [X] Day 04 notes no paper
-   - [X] Day 05 notes on paper
-   - [X] Day 06 notes on paper
-   - [X] Day 07 notes on paper
+*** attempt 3
+   - [ ] Day 01
+   - [ ] Day 02
+   - [ ] Day 03
+   - [ ] Day 04
+   - [ ] Day 05
+   - [ ] Day 06
+   - [ ] Day 07
    - [ ] Day 08
    - [ ] Day 09
    - [ ] Day 10
@@ -212,6 +215,17 @@ start day: <2020-06-05 Fri>
    - [ ] Day 19
    - [ ] Day 20
    - [ ] Day 21
+*** attempt 2
+   - [X] Day 01 https://github.com/randomwangran/CPU/commit/41179ae055ae6f4e3e7cb609027db27d27f51954
+   - [X] Day 02 https://github.com/randomwangran/CPU/commit/0db9efa5b2534828e5aeffbc45a52b21284e067b
+   - [X] Day 03 https://github.com/randomwangran/CPU/commit/e26365c892b3c8b3a168190147c1984b2c0b436f
+   - [X] Day 04 notes no paper
+   - [X] Day 05 notes on paper
+   - [X] Day 06 notes on paper
+   - [X] Day 07 notes on paper
+   - [ ] Day 08 the negative side of ZK is that focus on using my
+     words to note, I sometime forget the relatively strong routine
+     that I already have.
 *** attempt 1
  start day <2020-06-04 Thu>
    - [X] Day 01 https://github.com/randomwangran/CPU/commit/391e80fdbbe9f645400b49f71f77fd51bd990710
