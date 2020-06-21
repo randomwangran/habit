@@ -49,7 +49,7 @@ capture it. And process it later on.
 *** attempt 4
    <2020-06-19 Fri>
    - [X] Day 01 good day with blocking system on
-   - [ ] Day 02
+   - [X] Day 02 good day
    - [ ] Day 03
    - [ ] Day 04
    - [ ] Day 05
@@ -181,7 +181,13 @@ start day: <2020-06-05 Fri>
     Just that little bit effort make today a good day in terms of no
     distractive Internet
 
-  - [ ] Day 15
+  - [ ] Day 15 perhaps I can doc more about this journey by moving
+    this journal file to ZK? I read the book and this how that book
+    influence me. If just letting this log file here, would be a lost.
+    Another thing I can see myself over the last several days, was
+    that I have the desire to write more. Much more than the time
+    prior to ZK.
+
   - [ ] Day 16
   - [ ] Day 17
   - [ ] Day 18
@@ -194,7 +200,7 @@ start day: <2020-06-05 Fri>
 - document progress on CPU
 ** log
 *** attempt 3
-   - [ ] Day 01
+   - [X] Day 01 around 20m reading. Now with the long article.
    - [ ] Day 02
    - [ ] Day 03
    - [ ] Day 04
