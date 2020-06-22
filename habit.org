@@ -50,7 +50,10 @@ capture it. And process it later on.
    <2020-06-19 Fri>
    - [X] Day 01 good day with blocking system on
    - [X] Day 02 good day
-   - [ ] Day 03
+   - [X] Day 03 external force to push me on the limit; though some
+     distractive Internet they were mostly happen when I cannot do
+     something else, e.g., compiling the code. Most of the focusing
+     time is on target.
    - [ ] Day 04
    - [ ] Day 05
    - [ ] Day 06
@@ -181,14 +184,18 @@ start day: <2020-06-05 Fri>
     Just that little bit effort make today a good day in terms of no
     distractive Internet
 
-  - [ ] Day 15 perhaps I can doc more about this journey by moving
+  - [X] Day 15 perhaps I can doc more about this journey by moving
     this journal file to ZK? I read the book and this how that book
     influence me. If just letting this log file here, would be a lost.
     Another thing I can see myself over the last several days, was
     that I have the desire to write more. Much more than the time
     prior to ZK.
 
-  - [ ] Day 16
+  - [X] Day 16 yesterday was too busy to file this task. So I did this
+    on the next day. Reviewing my Sunday on Monday. I think it's okay
+    to this. But, Can I do better? To make the busy day still being
+    controlled?
+
   - [ ] Day 17
   - [ ] Day 18
   - [ ] Day 19
@@ -199,8 +206,8 @@ start day: <2020-06-05 Fri>
 ** rules
 - document progress on CPU
 ** log
-*** attempt 3
-   - [X] Day 01 around 20m reading. Now with the long article.
+*** attempt 4
+   - [ ] Day 01
    - [ ] Day 02
    - [ ] Day 03
    - [ ] Day 04
@@ -221,6 +228,12 @@ start day: <2020-06-05 Fri>
    - [ ] Day 19
    - [ ] Day 20
    - [ ] Day 21
+
+*** attempt 3
+   - [X] Day 01 around 20m reading. Now with the long article.
+   - [ ] Day 02 If I have a busy scheduled day, I think I'd better to
+     scale down the work. But do not do nothing. Even just tide the
+     notes, plan something to do next day is okay.
 *** attempt 2
    - [X] Day 01 https://github.com/randomwangran/CPU/commit/41179ae055ae6f4e3e7cb609027db27d27f51954
    - [X] Day 02 https://github.com/randomwangran/CPU/commit/0db9efa5b2534828e5aeffbc45a52b21284e067b
