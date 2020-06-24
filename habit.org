@@ -49,7 +49,7 @@ capture it. And process it later on.
 *** attempt 5
 <2020-06-23 Tue>
 
-   - [ ] Day 01
+   - [X] Day 01 good day
    - [ ] Day 02
    - [ ] Day 03
    - [ ] Day 04
@@ -208,7 +208,11 @@ start day: <2020-06-05 Fri>
   - [X] Day 17 again a bad day. I find every time the block system is
     not on default, I tent to lost control.
 
-  - [ ] Day 18
+  - [X] Day 18 Almost there! I think the lessens learned from previous
+    try and error is that I need to make effort from both side. One
+    make it easy to let my attention to do next. The other is to
+    protect my brain accessing the distractive cue.
+
   - [ ] Day 19
   - [ ] Day 20
   - [ ] Day 21
@@ -219,7 +223,7 @@ start day: <2020-06-05 Fri>
 ** log
 *** attempt 4
 <2020-06-23 Tue>
-   - [ ] Day 01
+   - [X] Day 01 reading on paper
    - [ ] Day 02
    - [ ] Day 03
    - [ ] Day 04
