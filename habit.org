@@ -50,7 +50,7 @@ capture it. And process it later on.
 <2020-06-23 Tue>
 
    - [X] Day 01 good day
-   - [ ] Day 02
+   - [X] Day 02 nice day
    - [ ] Day 03
    - [ ] Day 04
    - [ ] Day 05
@@ -213,7 +213,7 @@ start day: <2020-06-05 Fri>
     make it easy to let my attention to do next. The other is to
     protect my brain accessing the distractive cue.
 
-  - [ ] Day 19
+  - [X] Day 19
   - [ ] Day 20
   - [ ] Day 21
 
@@ -224,7 +224,7 @@ start day: <2020-06-05 Fri>
 *** attempt 4
 <2020-06-23 Tue>
    - [X] Day 01 reading on paper
-   - [ ] Day 02
+   - [X] Day 02 study with openmpi
    - [ ] Day 03
    - [ ] Day 04
    - [ ] Day 05
