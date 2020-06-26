@@ -46,11 +46,10 @@ If during the session find something interesting, make the habit to
 capture it. And process it later on.
 
 ** logs
-*** attempt 5
-<2020-06-23 Tue>
 
-   - [X] Day 01 good day
-   - [X] Day 02 nice day
+*** attempt 6
+   - [ ] Day 01
+   - [ ] Day 02
    - [ ] Day 03
    - [ ] Day 04
    - [ ] Day 05
@@ -71,6 +70,14 @@ capture it. And process it later on.
    - [ ] Day 20
    - [ ] Day 21
 
+*** attempt 5
+<2020-06-23 Tue>
+
+   - [X] Day 01 good day
+   - [X] Day 02 nice day
+   - [ ] Day 03 not good day. Again, just a small gap let the night
+     less focus. If really want to watch video, download and scheduled
+     in to agenda.
 *** attempt 4
    <2020-06-19 Fri>
    - [X] Day 01 good day with blocking system on
@@ -214,7 +221,7 @@ start day: <2020-06-05 Fri>
     protect my brain accessing the distractive cue.
 
   - [X] Day 19
-  - [ ] Day 20
+  - [X] Day 20 watch unscheduled video again.
   - [ ] Day 21
 
 * TODO Habit C: CPU
@@ -225,7 +232,7 @@ start day: <2020-06-05 Fri>
 <2020-06-23 Tue>
    - [X] Day 01 reading on paper
    - [X] Day 02 study with openmpi
-   - [ ] Day 03
+   - [X] Day 03 study with openmpi with trainee
    - [ ] Day 04
    - [ ] Day 05
    - [ ] Day 06
